@@ -1,4 +1,6 @@
 # Resume
 This page showcases my resume...
+
 > Latest update: 2025 | Information is subject to change...
+
 ## For more information visit my [portfolio](https://camrenaa.github.io/)
